@@ -20,12 +20,26 @@
 
 
 @theme {
+
   --font-zentry: "zentry", "sans-serif";
   --font-general: "general", sans-serif;
   --font-circular-web: "circular-web", sans-serif;
   --font-robert-medium: "robert-medium", sans-serif;
   --font-robert-regular: "robert-regular", sans-serif;
+
+  --color-blue-50 : #DFDFF0;
+  --color-blue-100: #DFDFF2;
+  --color-blue-200: #FOF2FA;
+  --color-blue-300: #4FB7DD;
+
+  --color-violet-300: #5724FF;
+
+  --color-yellow-100: #8E983F;
+  --color-yellow-300: #EDFF66;
+
 }
+
+
 
 
 body {
