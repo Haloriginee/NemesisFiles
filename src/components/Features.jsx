@@ -104,7 +104,7 @@ const Features = () => {
           <BentoAnimation className='bento-tilt_1 row-span-1 md:col-span-1! md:row-span-2 '>
             <BentoCard
               src="videos/feature-2.mp4"
-              title={<>Zig<b>m</b>a</>}
+              title={<>The F<b>o</b>urth Sister</>}
               description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
             />
           </BentoAnimation>
