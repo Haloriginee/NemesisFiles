@@ -95,7 +95,7 @@ const Features = () => {
         <BentoAnimation className='border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]'>
           <BentoCard
             src="videos/feature-1.mp4"
-            title={<>radia<b>n</b>t</>}
+            title={<>The De<b>s</b>tined <b>O</b>ne</>}
             description="A cross-platform metagame app, turning your activities acress web2 and web3 games into a rewarding adventure."
           />
         </BentoAnimation>
