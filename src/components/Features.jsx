@@ -96,7 +96,7 @@ const Features = () => {
           <BentoCard
             src="videos/feature-1.mp4"
             title={<>The D<b>e</b>sti<b>n</b>ed <b>O</b>ne</>}
-            description="A cross-platform metagame app, turning your activities acress web2 and web3 games into a rewarding adventure."
+            description="Wield the power of legends. Become the myth they fear."
           />
         </BentoAnimation>
 
