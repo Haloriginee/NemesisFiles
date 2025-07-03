@@ -105,7 +105,7 @@ const Features = () => {
             <BentoCard
               src="videos/feature-2.mp4"
               title={<>The F<b>o</b>urth Sister</>}
-              description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
+              description="Elegant as moonlight, deadly as a curse, the Fourth Sister weaves beauty and blood into every strike."
             />
           </BentoAnimation>
 
