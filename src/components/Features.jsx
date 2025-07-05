@@ -113,7 +113,9 @@ const Features = () => {
             <BentoCard
               src="videos/feature-3.mp4"
               title={<>N<b>e</b>xus </>}
-              description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
+              description="He chants no prayers now… only curses that shake the heavens."
+
+
             />
           </BentoAnimation>
 
