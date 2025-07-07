@@ -112,7 +112,7 @@ const Features = () => {
           <BentoAnimation className='bento-tilt_1 row-span-1 ms-32 md:col-span-1! md:ms-0'>
             <BentoCard
               src="videos/feature-3.mp4"
-              title={<>N<b>e</b>xus </>}
+              title={<>El<b>d</b>er Ji<b>n</b>chi </>}
               description="He chants no prayers now… only curses that shake the heavens."
 
 
