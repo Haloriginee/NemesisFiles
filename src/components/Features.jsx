@@ -122,8 +122,8 @@ const Features = () => {
           <BentoAnimation className='bento-tilt_1 me-14 md:col-span-1! md:me-0'>
             <BentoCard
               src="videos/feature-4.mp4"
-              title={<>Az<b>u</b>l</>}
-              description="A cross-world AI agent - elevating your gameplay to be more fun and productive."
+              title={<>zh<b>u</b> b<b>a</b>ijie</>}
+              description="Once cast out of Heaven, now carving his own legend. One swing, one snarl at a time."
             />
           </BentoAnimation>
 
