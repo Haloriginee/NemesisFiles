@@ -38,7 +38,7 @@ const About = () => {
           Let's Game until death do us part
         </h2>
 
-        <AnimatedTitle title="Disc<b>o</b>ver the world's <br /> L<b>a</b>rgest shared adventure" containerClass="mt-5 !text-black text-center"/>
+        <AnimatedTitle title="Ch<b>a</b>llenge the heavens <br /> r<b>e</b>write Destiny" containerClass="mt-5 !text-black text-center"/>
 
         <div className='about-subtext'>
           <p>
