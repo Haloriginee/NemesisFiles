@@ -42,10 +42,10 @@ const About = () => {
 
         <div className='about-subtext'>
           <p>
-            The Game of Games begins your life, now an epic MMORPG
+           In the shadows of gods and monsters, a forgotten myth takes form. Step beyond the veil
           </p>
           <p>
-            Zentry unites every player from countless games and platform
+            of reality, where the echoes of ancient legends intertwine with the pulse of modern gaming.
           </p>
         </div>
       </div>
