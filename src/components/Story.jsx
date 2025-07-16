@@ -56,7 +56,7 @@ const Story = () => {
     <section id="story" className='min-5-dvh w-screen bg-black text-blue-50'>
       <div className='flex size-full flex-col items-center py-10 pb-24'>
         <p className='font-general text-sm uppercase md:text-[10px]'>
-          The Multiversal IP World
+          From stone to god, your story echoes across worlds.
         </p>
         <div className='relative size-full'>
           <AnimatedTitle
