@@ -85,10 +85,10 @@ const Features = () => {
       <div className='container mx-auto px-3 md:px-10'>
         <div className='px-5 py-32'>
           <p className='font-circular-web text-lg text-blue-50'>
-            Into the Metagame Layer
+            They built the world above. You master the one beneath.
           </p>
           <p className='max-w-md font-circular-web text-lg text-blue-50 opacity-50 '>
-            Immerse yourself in a rich and ever-expanding universe where a vibrant array of products converge into an interconnected overlay experience on your world.
+            Step into a living myth, a vast, evolving world where ancient legends, divine beasts, and boundless realms intertwine into one seamless journey across reality and dream.
           </p>
         </div>
 
